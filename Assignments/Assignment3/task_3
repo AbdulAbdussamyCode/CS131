@@ -1,0 +1,21 @@
+task_3() {
+  echo 'Night Owl(s) List:'
+  
+  while IFS=$'\n' read user; do
+    
+    echo "${user}"
+  
+  done < <(awk '\
+    ((($7 >= "23:00" && $7 <= "23:59") \
+    || ($7 >= "00:00" && $7 <= "04:00")) \
+    && (($9 >= "23:00" && $9 <= "23:59") \
+    || ($9 >= "00:00" && $9 "04:00"))) {print $1}\
+    ' \
+    "$1" \
+    | sort \
+    | uniq)
+  
+  echo 'Night Owls are dope. Please ensure you get enough sleep though.'
+}
+
+task_3 "$1"

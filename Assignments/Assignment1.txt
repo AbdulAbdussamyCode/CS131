@@ -1,0 +1,78 @@
+Script started on 2023-09-22 20:05:52-04:00
+bash-4.4$
+#1) Making directory Assignment1 and changing working directory to it:
+[mkdir Assignment1
+ cd Assignment1
+
+#2) Echo Shell:
+ echo $SHELL
+/bin/bash
+
+#3) Echo home directory:
+$ echoHOME
+/mnt/scratch/FA23_CS131_Ashish/abdulwahabf23
+
+#4) Display UID and group
+ id -u
+1113
+ groups
+abdulwahabf23 S77
+
+#5) Create myDir and remove "write" permission
+ mkdir myDir
+ chmod u-w myDir/
+I can CD into the directory, but I cannot create files in it
+ cd myDir/
+ ls
+ ls -l
+total 0
+ touch test.text
+touch: cannot touch 'test.txt': Permission denied
+
+#6) Create new directory myDir2 and myDir3
+ cd ..
+ pwd 
+/mnt/scratch/FA23_CS131_Ashish/abdulwahabf23/CS131/Assignments/Assignment1
+ mkdir myDir2
+ mkdir myDir3
+
+#7) Inside myDir2 create myFile.txt and move it to myDir3
+ cd myDir3[K2
+ touch myFile.txt
+ mv myFile.txt ../myDir
+mv: cannot move 'myFile.txt' to '../myDir/myFile.txt': Permission denied
+ mv my[myFile.txt ../myDir3
+
+#8) Find the total amount of RAM/Memory display in mebibytes
+ free-m
+              total        used        free      shared  buff/cache   available
+Mem:          71367       12226        1499        1252       57641       55726
+Swap:          4119        1052        3067
+
+#9) Identify the operating system version
+ cat /etc/os-release
+NAME="Red Hat Enterprise Linux"
+VERSION="8.6 (Ootpa)"
+ID="rhel"
+ID_LIKE="fedora"
+VERSION_ID="8.6"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="Red Hat Enterprise Linux 8.6 (Ootpa)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:8::baseos"
+HOME_URL="https://www.redhat.com/"
+DOCUMENTATION_URL="https://access.redhat.com/documentation/red_hat_enterprise_linux/8/"
+BUG_REPORT_URL="https://bugzilla.redhat.com/"
+REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 8"
+REDHAT_BUGZILLA_PRODUCT_VERSION=8.6
+REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
+REDHAT_SUPPORT_PRODUCT_VERSION="8.6"
+
+#10) What is the permission given to all users?
+ ls -l /etc/os-release
+lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
+
+bash-4.4$ exit
+exit
+Script done on 2023-09-22 20:09:01-04:0
+
