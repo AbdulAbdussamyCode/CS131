@@ -11,6 +11,12 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1699382308,,"wq"
+:q
+|2,0,1698793429,,"q"
+:we
+|2,0,1695420019,,"we"
 
 # Search String History (newest to oldest):
 
@@ -21,16 +27,499 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"q	CHAR	0
+	€kb€kde
+|3,0,26,0,1,0,1696386184,"€kb€kde"
+"w	CHAR	0
+	€kb€kb€kd
+|3,0,32,0,1,0,1698787816,"€kb€kb€kd"
+""-	CHAR	0
+	0
+|3,1,36,0,1,0,1695429464,"0"
 
 # File marks:
-'0  1  0  ~/Global
-|4,48,1,0,1694325060,"~/Global"
+'0  6  10  ~/CS131/Assignments/Assignment3/task_7
+|4,48,6,10,1699382308,"~/CS131/Assignments/Assignment3/task_7"
+'1  9  10  ~/CS131/Assignments/Assignment3/task_6
+|4,49,9,10,1699382261,"~/CS131/Assignments/Assignment3/task_6"
+'2  14  10  ~/CS131/Assignments/Assignment3/task_5
+|4,50,14,10,1699382081,"~/CS131/Assignments/Assignment3/task_5"
+'3  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,51,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+'4  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,52,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+'5  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,53,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+'6  1091  12  ~/CS131/Assignments/Assignment2/Assignment2.txty
+|4,54,1091,12,1698793435,"~/CS131/Assignments/Assignment2/Assignment2.txty"
+'7  3  8  ~/CS131/Worksheets/Worksheet5/script.sh
+|4,55,3,8,1698788099,"~/CS131/Worksheets/Worksheet5/script.sh"
+'8  1  303  ~/CS131/Worksheets/Worksheet5/script.sh
+|4,56,1,303,1698787932,"~/CS131/Worksheets/Worksheet5/script.sh"
+'9  17  0  ~/CS131/Worksheets/Worksheet5/script.sh
+|4,57,17,0,1698787932,"~/CS131/Worksheets/Worksheet5/script.sh"
 
 # Jumplist (newest first):
--'  1  0  ~/Global
-|4,39,1,0,1694325060,"~/Global"
+-'  6  10  ~/CS131/Assignments/Assignment3/task_7
+|4,39,6,10,1699382308,"~/CS131/Assignments/Assignment3/task_7"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_7
+|4,39,1,0,1699382296,"~/CS131/Assignments/Assignment3/task_7"
+-'  9  10  ~/CS131/Assignments/Assignment3/task_6
+|4,39,9,10,1699382261,"~/CS131/Assignments/Assignment3/task_6"
+-'  9  10  ~/CS131/Assignments/Assignment3/task_6
+|4,39,9,10,1699382261,"~/CS131/Assignments/Assignment3/task_6"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_6
+|4,39,1,0,1699382242,"~/CS131/Assignments/Assignment3/task_6"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_6
+|4,39,1,0,1699382242,"~/CS131/Assignments/Assignment3/task_6"
+-'  14  10  ~/CS131/Assignments/Assignment3/task_5
+|4,39,14,10,1699382081,"~/CS131/Assignments/Assignment3/task_5"
+-'  14  10  ~/CS131/Assignments/Assignment3/task_5
+|4,39,14,10,1699382081,"~/CS131/Assignments/Assignment3/task_5"
+-'  14  10  ~/CS131/Assignments/Assignment3/task_5
+|4,39,14,10,1699382081,"~/CS131/Assignments/Assignment3/task_5"
+-'  14  10  ~/CS131/Assignments/Assignment3/task_5
+|4,39,14,10,1699382081,"~/CS131/Assignments/Assignment3/task_5"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_5
+|4,39,1,0,1699382067,"~/CS131/Assignments/Assignment3/task_5"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_5
+|4,39,1,0,1699382067,"~/CS131/Assignments/Assignment3/task_5"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_5
+|4,39,1,0,1699382067,"~/CS131/Assignments/Assignment3/task_5"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_5
+|4,39,1,0,1699382067,"~/CS131/Assignments/Assignment3/task_5"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  21  10  ~/CS131/Assignments/Assignment3/task_3
+|4,39,21,10,1699381969,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_3
+|4,39,1,0,1699381939,"~/CS131/Assignments/Assignment3/task_3"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  22  10  ~/CS131/Assignments/Assignment3/task_2
+|4,39,22,10,1699381787,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  1  0  ~/CS131/Assignments/Assignment3/task_2
+|4,39,1,0,1699381543,"~/CS131/Assignments/Assignment3/task_2"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  855  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,855,0,1698793499,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
+-'  1  0  ~/CS131/Assignments/Assignment2/cmds.log
+|4,39,1,0,1698793456,"~/CS131/Assignments/Assignment2/cmds.log"
 
 # History of marks within files (newest to oldest):
+
+> ~/CS131/Assignments/Assignment3/task_7
+	*	1699382306	0
+	"	6	10
+	^	6	11
+	.	6	10
+	+	6	10
+
+> ~/CS131/Assignments/Assignment3/task_6
+	*	1699382258	0
+	"	9	10
+	^	9	11
+	.	9	11
+	+	9	11
+
+> ~/CS131/Assignments/Assignment3/task_5
+	*	1699382079	0
+	"	14	10
+	^	14	11
+	.	14	10
+	+	14	10
+
+> ~/CS131/Assignments/Assignment3/task_3
+	*	1699381966	0
+	"	21	10
+	^	21	11
+	.	21	11
+	+	21	11
+
+> ~/CS131/Assignments/Assignment3/task_2
+	*	1699381783	0
+	"	22	10
+	^	22	11
+	.	22	11
+	+	22	11
+
+> ~/CS131/Assignments/Assignment2/cmds.log
+	*	1698793496	0
+	"	855	0
+
+> ~/CS131/Assignments/Assignment2/Assignment2.txty
+	*	1698793434	0
+	"	1091	12
+	^	1091	2
+	.	646	1
+	+	2	9
+	+	4	56
+	+	5	21
+	+	6	10
+	+	3	150
+	+	4	12
+	+	7	13
+	+	8	19
+	+	9	20
+	+	10	23
+	+	11	16
+	+	13	30
+	+	13	0
+	+	14	44
+	+	15	42
+	+	16	34
+	+	17	46
+	+	18	17
+	+	19	26
+	+	20	39
+	+	21	28
+	+	22	32
+	+	23	42
+	+	24	33
+	+	25	33
+	+	26	29
+	+	27	40
+	+	28	31
+	+	29	32
+	+	30	30
+	+	31	29
+	+	32	24
+	+	33	21
+	+	34	40
+	+	35	40
+	+	36	20
+	+	37	21
+	+	38	21
+	+	39	22
+	+	40	23
+	+	41	28
+	+	42	24
+	+	43	21
+	+	44	25
+	+	623	148
+	+	624	0
+	+	626	17
+	+	625	8
+	+	626	108
+	+	627	16
+	+	628	16
+	+	629	16
+	+	633	21
+	+	636	29
+	+	637	33
+	+	638	34
+	+	639	30
+	+	640	30
+	+	641	30
+	+	642	30
+	+	643	32
+	+	644	30
+	+	645	28
+	+	645	49
+	+	634	0
+	+	632	9
+	+	634	8
+	+	630	262
+	+	648	0
+	+	645	29
+	+	646	1
+
+> ~/CS131/Worksheets/Worksheet5/script.sh
+	*	1698788095	0
+	"	3	8
+	^	3	9
+	.	3	9
+	+	1	400
+	+	1	399
+	+	1	303
+	+	19	3
+	+	4	0
+	+	3	9
+
+> ~/CS131/Worksheets/Worksheet3/ws3.txt
+	*	1698785458	0
+	"	1	1
+
+> ~/CS131/Worksheets/Worksheet2/counts.txt
+	*	1696389067	0
+	"	3	79
+	^	3	80
+	.	3	79
+	+	3	79
+
+> ~/.bashrc
+	*	1696386141	0
+	"	3	0
+	^	3	18
+	.	3	8
+	+	2	16
+	+	3	0
+	+	3	8
+
+> ~/CS131/Assignments/Assignment1.txt
+	*	1695429501	0
+	"	78	0
+	^	78	0
+	.	79	0
+	+	2	119
+	+	5	25
+	+	3	30
+	+	5	0
+	+	3	111
+	+	5	0
+	+	3	30
+	+	6	0
+	+	3	47
+	+	3	68
+	+	5	0
+	+	3	69
+	+	5	14
+	+	4	17
+	+	3	0
+	+	7	14
+	+	8	11
+	+	12	17
+	+	11	24
+	+	12	0
+	+	15	24
+	+	16	0
+	+	17	4
+	+	18	7
+	+	21	45
+	+	21	67
+	+	21	26
+	+	22	12
+	+	21	46
+	+	22	12
+	+	23	17
+	+	25	19
+	+	26	12
+	+	27	15
+	+	28	7
+	+	29	0
+	+	27	0
+	+	26	0
+	+	25	0
+	+	31	0
+	+	24	59
+	+	32	41
+	+	33	15
+	+	34	0
+	+	33	0
+	+	36	0
+	+	37	12
+	+	36	13
+	+	35	74
+	+	40	19
+	+	39	56
+	+	40	0
+	+	41	0
+	+	42	0
+	+	41	17
+	+	42	23
+	+	43	72
+	+	44	0
+	+	47	0
+	+	44	26
+	+	47	0
+	+	46	59
+	+	48	79
+	+	49	79
+	+	50	43
+	+	53	29
+	+	52	40
+	+	53	0
+	+	54	31
+	+	55	21
+	+	56	9
+	+	57	16
+	+	58	16
+	+	59	26
+	+	60	50
+	+	61	17
+	+	62	51
+	+	63	34
+	+	64	87
+	+	65	45
+	+	66	52
+	+	67	35
+	+	69	36
+	+	71	46
+	+	72	0
+	+	73	81
+	+	75	14
+	+	76	4
+	+	73	81
+	+	76	7
+	+	78	0
+	+	76	4
+	+	79	0
+
+> ~/CS131/Assignments/Assignment1/cmd_logs.txt
+	*	1695426922	0
+	"	1	0
+
+> ~/config
+	*	1695421578	0
+	"	4	28
+	^	5	0
+	.	4	30
+	+	4	30
 
 > ~/Global
 	*	1694325057	0
